@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Bienvenido a mi sitio
+title: Página Principal
 ---
 
-# ¡Hola mundo!
+# Bienvenido a mi sitio web
 
-Esta es mi primera página usando **GitHub Pages** con **Jekyll**.
+Este es el contenido de mi página principal hecha con GitHub Pages.
