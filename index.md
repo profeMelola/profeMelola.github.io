@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Página Principal
+title: Página Principal de profeMelola
 ---
 
 # Bienvenido a mi sitio web
